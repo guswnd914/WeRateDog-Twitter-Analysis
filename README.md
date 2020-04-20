@@ -1,4 +1,5 @@
 # WeRateDog-Twitter-Analysis
+## For the project, please go directly to 'wrangle_act.ipynb'.
 
 ### Date created
 March 10, 2020
